@@ -1,0 +1,8 @@
+{
+  "name": "kvnShopSystem",
+  "app_id": "8d610476",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
